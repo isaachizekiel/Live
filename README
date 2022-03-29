@@ -1,0 +1,1 @@
+just like when we build ffmpeg we first execute `export PKG_CONFIG_PATH=/home/izak/install/linux-x86_64/lib/pkgconfig` inorder to resolve underined reference when executing `cmake --build .`
